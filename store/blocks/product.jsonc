@@ -47,11 +47,22 @@
       "product-quantity"
     ]
   },
+  "shipping-simulator": {
+    "props": {
+      "skuID": "342"
+    }
+  } ,
+
   "sku-selector": {
     "props": {
       "initialSelection": "empty",
       "showValueForVariation": "image",
       "showVariationsErrorMessage": true
+    }
+  },
+  "product-quantity": {
+    "props": {
+      "warningQuantityThreshold": 9999999
     }
   },
   "product-price" : {
