@@ -6,11 +6,11 @@
     ]
   },
   "search-result-layout": {
-     "blocks": [
-        "search-result-layout.desktop",
-        "search-result-layout.mobile",
-        "search-not-found-layout"
-     ]
+    "blocks": [
+      "search-result-layout.desktop",
+      "search-result-layout.mobile",
+      "search-not-found-layout"
+    ]
   },
   "search-result-layout.desktop": {
     "blocks": [
@@ -23,6 +23,17 @@
       "filter-navigator.v3",
       "search-fetch-more"
     ]
-  }
-
+  },
+  "breadcrumb.search": {
+    "props": {
+      "showOnMobile": true
+    }
+  },
+  "search-title.v2": {},
+  "total-products.v2": {},
+  "order-by.v2": {},
+  "search-fetch-previous": {},
+  "search-content": {},
+  "filter-navigator.v3": {},
+  "search-fetch-more": {}
 }
