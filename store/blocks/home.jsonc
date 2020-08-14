@@ -13,8 +13,8 @@
   },
   "rich-text": {
     "props": {
-      "text": "**Hello ZZZ, World!**",
-      "textPosition": "RIGHT"
+      "text": "Desenvolvido por **Zeka Carvalho**",
+      "textPosition": "CENTER"
     }
   },
   "info-card#button-right": {
