@@ -45,13 +45,13 @@
   "tab-list#home": {
     "children": [
       "tab-list.item#home1",
-      "tab-list.item#home2"
+      "tab-list.item#Instagram"
     ]
   },
   "tab-content#home": {
     "children": [
       "tab-content.item#home1",
-      "tab-content.item#home2"
+      "tab-content.item#Instagram"
     ]
   },
   "tab-list.item#home1": {
@@ -61,7 +61,7 @@
       "defaultActiveTab": true
     }
   },
-  "tab-list.item#home2": {
+  "tab-list.item#Instagram": {
     "props": {
       "tabId": "Instagram",
       "label": "Instagram"
@@ -75,7 +75,7 @@
       "tabId": "sobre"
     }
   },
-  "tab-content.item#home2": {
+  "tab-content.item#Instagram": {
     "children": [
       "iframe#home"
     ],
